@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Felipe Espinoza Portfolio
 
-You can use the [editor on GitHub](https://github.com/f-espinoza/portfolio_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
+Kaggle Notebook showing a data exploration with Python of a dataset containing data about date, primary cause of death, and numerous other information about death in Chile from 2016 to 2021.
+With this data I was able to answer various questions:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. What was the first cause of death in 2021 in Chile?
+2. What were the top five causes of death in Chile in 2021, each year since 2016, and accumulated?
+3. What is the most common cause of death by region?
+4. Is there any difference between the causes of death for men and women?
+5. What is the main cause of death among children of 3 and under?
+6. Evolution of deaths caused by COVID disease (2020-2021)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The data source was the chilean Department of Statistics and Health Information. The dataset can be found [here](https://deis.minsal.cl/#datosabiertos)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Project 2: [Energy production, trade and consumption](https://github.com/f-espinoza/portfolio/blob/main/SQL/un_energy_dataset/SQL_data_exploration_energy_un.sql) 
+SQL data exploration of the an *Energy, production, trade and consumption* database. With this exploration I was able understand this dataset with insights like:
 
-- Bulleted
-- List
+1. Compare the Energy supply per capita in gigajoules between South America, North America and Europe.
+2. The average primary energy production in the world.
+3. Percentage difference between the country with the lowest energy suppply per capita and the rest in a list containing: Brazil, Chile, Argentina, Peru, Uruguay, Bolivia, Colombia and Ecuador.  
+4. Seeing the evoution of energy productionm in Germany and comparing it with the Russian Federation.
 
-1. Numbered
-2. List
+The dataset can be found [here](data.un.org)
 
-**Bold** and _Italic_ and `Code` text
+## Project 3: [Death in Chile 2016 - 2021 Tableau Visualization](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/DeathsinChile2016-2021ENG/Dashboard1)
+Data visualization of the insights obtained in the *Death in Chile* Python's analysis. This is a Tableau Dashboard, so it is fully interactive.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/f-espinoza/portfolio_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
