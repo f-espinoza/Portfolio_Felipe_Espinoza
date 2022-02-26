@@ -11,7 +11,6 @@ With this data I was able to answer various questions:
 5. What is the main cause of death among children of 3 and under?
 6. Evolution of deaths caused by COVID disease (2020-2021)
 
-
 The data source was the chilean Department of Statistics and Health Information. The dataset can be found [here](https://deis.minsal.cl/#datosabiertos)
 
 
@@ -27,6 +26,29 @@ The dataset can be found [here](data.un.org)
 
 ## Project 3: [Death in Chile 2016 - 2021 Tableau Visualization](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/DeathsinChile2016-2021ENG/Dashboard1)
 Data visualization of the insights obtained in the *Death in Chile* Python's analysis. This is a Tableau Dashboard, so it is fully interactive.
+
+
+## Project 4: [Data visualization with Python: Github Public Repositories visualization](https://www.kaggle.com/felipeea/github-public-repositories-visualization)
+Data visualization only with Python's library Seaborn. With this visualization I was able to show the evolution of the top 10 programming languages in the GitHub Repositories from 2011 to 2022. With this kind of visualizations you could compare and analyse any programming language present in the database with a hight level of control. 
+Some of the insights you can get from this visualizations are:
+
+1. Top 10 by number of (public) repositories
+2. Programming language with the maximum amount of issues in a quarter from 2011 to 2022.
+3. Visualization for each of the top 10 programming languages by number of issues.
+4. Maximum number of pulling requests (2011-2022) in a quarter.
+
+
+## Project 5: [Historical IDA statement of Credits and Grants in R](https://www.kaggle.com/felipeea/hist-ida-statement-of-credits-and-grants-r)
+Data exploration of the historical International Development Association statement of Credits and Grants made in R. 
+Examples of information we obtained thought this analysis were:
+
+1. What regions were the credits going to¶
+2. What is the median and the maximum of the Original Principal Amount by country
+3. What number of credits and grants were for China, and what are its status?
+4. Number of transactions and projects between IDA and China and India.
+
+The dataset can be foun [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
+
 
 
 
