@@ -1,5 +1,3 @@
-## Felipe Espinoza Portfolio
-
 ## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
 Kaggle Notebook showing a data exploration with Python of a dataset containing data about date, primary cause of death, and numerous other information about death in Chile from 2016 to 2021.
 With this data I was able to answer various questions:
@@ -14,6 +12,9 @@ With this data I was able to answer various questions:
 The data source was the chilean Department of Statistics and Health Information. The dataset can be found [here](https://deis.minsal.cl/#datosabiertos)
 
 
+![](Portfolio_Felipe_Espinoza/images/cause_death_graph.JPG)
+
+
 ## Project 2: [Energy production, trade and consumption](https://github.com/f-espinoza/portfolio/blob/main/SQL/un_energy_dataset/SQL_data_exploration_energy_un.sql) 
 SQL data exploration of the an *Energy, production, trade and consumption* database. With this exploration I was able understand this dataset with insights like:
 
@@ -24,8 +25,15 @@ SQL data exploration of the an *Energy, production, trade and consumption* datab
 
 The dataset can be found [here](data.un.org)
 
+
+![](Portfolio_Felipe_Espinoza/images/sql_project.JPG)
+
+
 ## Project 3: [Death in Chile 2016 - 2021 Tableau Visualization](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/DeathsinChile2016-2021ENG/Dashboard1)
 Data visualization of the insights obtained in the *Death in Chile* Python's analysis. This is a Tableau Dashboard, so it is fully interactive.
+
+
+![](Portfolio_Felipe_Espinoza/images/death_tableau.JPG)
 
 
 ## Project 4: [Data visualization with Python: Github Public Repositories visualization](https://www.kaggle.com/felipeea/github-public-repositories-visualization)
@@ -36,6 +44,9 @@ Some of the insights you can get from this visualizations are:
 2. Programming language with the maximum amount of issues in a quarter from 2011 to 2022.
 3. Visualization for each of the top 10 programming languages by number of issues.
 4. Maximum number of pulling requests (2011-2022) in a quarter.
+
+
+![](Portfolio_Felipe_Espinoza/images/github_repos_viz.JPG)
 
 
 ## Project 5: [Historical IDA statement of Credits and Grants in R](https://www.kaggle.com/felipeea/hist-ida-statement-of-credits-and-grants-r)
@@ -49,7 +60,4 @@ Examples of information we obtained thought this analysis were:
 
 The dataset can be foun [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
 
-
-
-
-
+![](Portfolio_Felipe_Espinoza/images/analisis_r.JPG)
