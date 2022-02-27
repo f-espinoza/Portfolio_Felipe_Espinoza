@@ -1,4 +1,13 @@
-## Portfolio
+# Portfolio
+
+Press the tittle of each project and you will be redirected to the project's page.
+
+If you want, you can find me in my other pages:
+
+- [LinkedIn](https://www.linkedin.com/in/f-espinozaa) 
+- [Tableau Public](https://www.kaggle.com/felipeea)
+- [Kaggle](https://public.tableau.com/app/profile/felipe.espinoza3784/)
+- [GitHub](https://github.com/f-espinoza)
 
 ## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
 Kaggle Notebook showing a data exploration with **Python** of a dataset containing data about date, primary cause of death, and numerous other information about death in Chile from 2016 to 2021.
@@ -61,12 +70,12 @@ Some of the insights you can get from this visualizations are:
 Data exploration of the historical International Development Association statement of Credits and Grants made in R. 
 Examples of information we obtained thought this analysis were:
 
-1. What regions were the credits going to¶
+1. What regions were the credits going to
 2. What is the median and the maximum of the Original Principal Amount by country
-3. What number of credits and grants were for China, and what are its status?
+3. What number of credits and grants were for China, and what are its status
 4. Number of transactions and projects between IDA and China and India.
 
-The dataset can be foun [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
+The dataset can be found [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
 
 ![](/images/analisis_r.JPG)
 
@@ -78,6 +87,8 @@ Simple **Excel Dashboard** showing hate crimes comitted in Catalunya during 2020
 2. Province.
 3. Total number of victims.
 
-You can download the Excel file [here](https://github.com/f-espinoza/portfolio/blob/main/hate_crimes_catalunya.xlsx?raw=true)
+This dataset was cleaned with Python before using it in Excel. The dataset can be found [here](https://datos.gob.es/es/catalogo/a09002970-victimes-o-persones-autores-de-delictes-dodi-i-discriminacio)
+
+You can download the Excel file [here](https://github.com/f-espinoza/portfolio/blob/main/hate_crimes_catalunya.xlsx?raw=true). This file is in catalan.
 
 ![](/images/hate_cr_cat.JPG)
