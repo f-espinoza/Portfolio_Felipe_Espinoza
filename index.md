@@ -78,6 +78,6 @@ Simple **Excel Dashboard** showing hate crimes comitted in Catalunya during 2020
 2. Province.
 3. Total number of victims.
 
-You can download the Excel file [here](https://github.com/f-espinoza/portfolio/blob/main/hate_crimes_catalunya.xlsx)
+You can download the Excel file [here](https://github.com/f-espinoza/portfolio/blob/main/hate_crimes_catalunya.xlsx?raw=true)
 
 ![](/images/hate_cr_cat.JPG)
