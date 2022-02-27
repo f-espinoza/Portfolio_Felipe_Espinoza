@@ -32,7 +32,7 @@ The data source was the chilean Department of Statistics and Health Information.
 1. Compare the Energy supply per capita in gigajoules between South America, North America and Europe.
 2. The average primary energy production in the world.
 3. Percentage difference between the country with the lowest energy suppply per capita and the rest in a list containing: Brazil, Chile, Argentina, Peru, Uruguay, Bolivia, Colombia and Ecuador.  
-4. Seeing the evoution of energy productionm in Germany and comparing it with the Russian Federation.
+4. Seeing the evoution of energy production in Germany and comparing it with the Russian Federation.
 
 The dataset can be found [here](data.un.org)
 
@@ -40,7 +40,7 @@ The dataset can be found [here](data.un.org)
 ![](/images/sql_project.JPG)
 
 
-## Project 3: [Death in Chile 2016 - 2021 Tableau Visualization](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/DeathsinChile2016-2021ENG/Dashboard1)
+## Project 3: [Death in Chile 2016 - 2021. Tableau Visualization](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/DeathsinChile2016-2021ENG/Dashboard1)
 Data visualization of the information obtained in the *Death in Chile* Python's analysis. This is a **Tableau Dashboard**, so it is fully interactive.
 With this dashboard you can filter the visualizations for:
 
@@ -67,7 +67,7 @@ Some of the insights you can get from this visualizations are:
 
 
 ## Project 5: [Historical IDA statement of Credits and Grants in R](https://www.kaggle.com/felipeea/hist-ida-statement-of-credits-and-grants-r)
-Data exploration of the historical International Development Association statement of Credits and Grants made in R. 
+Data exploration of the historical International Development Association statement of Credits and Grants made in **R**. 
 Examples of information we obtained thought this analysis were:
 
 1. What regions were the credits going to
