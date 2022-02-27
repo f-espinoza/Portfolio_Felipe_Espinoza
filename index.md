@@ -20,6 +20,9 @@ With this data I was able to answer various questions:
 5. What is the main cause of death among children of 3 and under?
 6. Evolution of deaths caused by COVID disease (2020-2021)
 
+
+There is, also, a second part of this analysis that you can find [here](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-ii).
+
 The data source was the chilean Department of Statistics and Health Information. The dataset can be found [here](https://deis.minsal.cl/#datosabiertos)
 
 
