@@ -30,7 +30,7 @@ The data source was the chilean Department of Statistics and Health Information.
 
 
 ## Project 2: [Energy production, trade and consumption](https://github.com/f-espinoza/portfolio/blob/main/SQL/un_energy_dataset/SQL_data_exploration_energy_un.sql) 
-**SQL** data exploration of the an *Energy, production, trade and consumption* database. With this exploration I was able understand this dataset with insights like:
+**SQL** data exploration of an *Energy, production, trade and consumption* database. With this exploration I was able understand this dataset with insights like:
 
 1. Compare the Energy supply per capita in gigajoules between South America, North America and Europe.
 2. The average primary energy production in the world.
