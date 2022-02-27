@@ -1,7 +1,7 @@
-# Portfolio
+## Portfolio
 
 ## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
-Kaggle Notebook showing a data exploration with Python of a dataset containing data about date, primary cause of death, and numerous other information about death in Chile from 2016 to 2021.
+Kaggle Notebook showing a data exploration with **Python** of a dataset containing data about date, primary cause of death, and numerous other information about death in Chile from 2016 to 2021.
 With this data I was able to answer various questions:
 
 1. What was the first cause of death in 2021 in Chile?
@@ -18,7 +18,7 @@ The data source was the chilean Department of Statistics and Health Information.
 
 
 ## Project 2: [Energy production, trade and consumption](https://github.com/f-espinoza/portfolio/blob/main/SQL/un_energy_dataset/SQL_data_exploration_energy_un.sql) 
-SQL data exploration of the an *Energy, production, trade and consumption* database. With this exploration I was able understand this dataset with insights like:
+**SQL** data exploration of the an *Energy, production, trade and consumption* database. With this exploration I was able understand this dataset with insights like:
 
 1. Compare the Energy supply per capita in gigajoules between South America, North America and Europe.
 2. The average primary energy production in the world.
@@ -32,14 +32,20 @@ The dataset can be found [here](data.un.org)
 
 
 ## Project 3: [Death in Chile 2016 - 2021 Tableau Visualization](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/DeathsinChile2016-2021ENG/Dashboard1)
-Data visualization of the insights obtained in the *Death in Chile* Python's analysis. This is a Tableau Dashboard, so it is fully interactive.
+Data visualization of the information obtained in the *Death in Chile* Python's analysis. This is a **Tableau Dashboard**, so it is fully interactive.
+With this dashboard you can filter the visualizations for:
+
+1. Year
+2. Day of the week
+3. Month
+4. Biological sex
 
 
 ![](/images/death_tableau.JPG)
 
 
 ## Project 4: [Data visualization with Python: Github Public Repositories visualization](https://www.kaggle.com/felipeea/github-public-repositories-visualization)
-Data visualization only with Python's library Seaborn. With this visualization I was able to show the evolution of the top 10 programming languages in the GitHub Repositories from 2011 to 2022. With this kind of visualizations you could compare and analyse any programming language present in the database with a hight level of control. 
+Data visualization only with **Python's** library **Seaborn**. With this visualization I was able to show the evolution of the top 10 programming languages in the GitHub Repositories from 2011 to 2022. With this kind of visualizations you could compare and analyse any programming language present in the database with a hight level of control. 
 Some of the insights you can get from this visualizations are:
 
 1. Top 10 by number of (public) repositories
@@ -63,3 +69,13 @@ Examples of information we obtained thought this analysis were:
 The dataset can be foun [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
 
 ![](/images/analisis_r.JPG)
+
+
+## Project 5: [Hate crimes in Catalunya](https://www.kaggle.com/felipeea/hist-ida-statement-of-credits-and-grants-r)
+Simple Excel Dashboard showing hate crimes comitted in Catalunya during 2020. Also contains a pivot table for more information. With this dashboard you can filter the data by:
+
+1. Way in which the crime took place.
+2. Province.
+3. Total number of victims.
+
+You can download the Excel file [here](https://github.com/f-espinoza/portfolio/blob/main/hate_crimes_catalunya.xlsx)
