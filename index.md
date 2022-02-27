@@ -72,10 +72,12 @@ The dataset can be foun [here](https://finances.worldbank.org/Loans-and-Credits/
 
 
 ## Project 5: [Hate crimes in Catalunya](https://www.kaggle.com/felipeea/hist-ida-statement-of-credits-and-grants-r)
-Simple Excel Dashboard showing hate crimes comitted in Catalunya during 2020. Also contains a pivot table for more information. With this dashboard you can filter the data by:
+Simple **Excel Dashboard** showing hate crimes comitted in Catalunya during 2020. Also contains a pivot table for more information. With this dashboard you can filter the data by:
 
 1. Way in which the crime took place.
 2. Province.
 3. Total number of victims.
 
 You can download the Excel file [here](https://github.com/f-espinoza/portfolio/blob/main/hate_crimes_catalunya.xlsx)
+
+[](/images/hate_cr_cat.JPG)
