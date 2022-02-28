@@ -5,8 +5,8 @@ Press the tittle of each project and you will be redirected to the project's pag
 If you want, you can find me in my other pages:
 
 - [LinkedIn](https://www.linkedin.com/in/f-espinozaa) 
-- [Tableau Public](https://www.kaggle.com/felipeea)
-- [Kaggle](https://public.tableau.com/app/profile/felipe.espinoza3784/)
+- [Tableau Public](https://public.tableau.com/app/profile/felipe.espinoza3784/)
+- [Kaggle](https://www.kaggle.com/felipeea)
 - [GitHub](https://github.com/f-espinoza)
 
 ## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
