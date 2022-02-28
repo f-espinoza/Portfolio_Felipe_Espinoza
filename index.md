@@ -1,6 +1,6 @@
 # Portfolio
 
-Press the tittle of each project and you will be redirected to the project's page.
+Press the title of each project and you will be redirected to the project's page.
 
 If you want, you can find me in my other pages:
 
@@ -10,18 +10,19 @@ If you want, you can find me in my other pages:
 - [GitHub](https://github.com/f-espinoza)
 
 ## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
-Kaggle Notebook showing a data exploration with **Python** of a dataset containing data about date, primary cause of death, and numerous other information about death in Chile from 2016 to 2021.
+Data exploration within Kaggle Notebook using **Python**. On a dataset containing information about the date, priamry cause of death and other information concerning deaths in Chile from 2016 to 2021. 
+
 With this data I was able to answer various questions:
 
-1. What was the first cause of death in 2021 in Chile?
-2. What were the top five causes of death in Chile in 2021, each year since 2016, and accumulated?
+1. What was the primary cause of death in 2021 in Chile?
+2. What were the top five causes of deaths in Chile in 2021, each year since 2016, and accumulated?
 3. What is the most common cause of death by region?
 4. Is there any difference between the causes of death for men and women?
 5. What is the main cause of death among children of 3 and under?
 6. Evolution of deaths caused by COVID disease (2020-2021)
 
 
-There is, also, a second part of this analysis that you can find [here](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-ii).
+There is also a second part of this analysis that you can find [here](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-ii).
 
 The data source was the chilean Department of Statistics and Health Information. The dataset can be found [here](https://deis.minsal.cl/#datosabiertos)
 
@@ -73,10 +74,10 @@ Some of the insights you can get from this visualizations are:
 Data exploration of the historical International Development Association statement of Credits and Grants made in **R**. 
 Examples of information we obtained thought this analysis were:
 
-1. What regions were the credits going to
-2. What is the median and the maximum of the Original Principal Amount by country
-3. What number of credits and grants were for China, and what are its status
-4. Number of transactions and projects between IDA and China and India.
+1. Regions which were receiving credis.
+2. The median and the maximum of the Original Principal Amount by country
+3. The number of credits and grants that were for China, and what are their status
+4. The number of transactions and projects between IDA and China and India.
 
 The dataset can be found [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
 
