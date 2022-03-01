@@ -38,6 +38,8 @@ The data source was the chilean Department of Statistics and Health Information.
 3. Percentage difference between the country with the lowest energy suppply per capita and the rest in a list containing: Brazil, Chile, Argentina, Peru, Uruguay, Bolivia, Colombia and Ecuador.  
 4. Seeing the evoution of energy production in Germany and comparing it with the Russian Federation.
 
+You can also visit the Tableau visualization for this dataset [here](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/energyproductiontradeandconsumption/Dashboard1)
+
 The dataset can be found [here](data.un.org)
 
 
