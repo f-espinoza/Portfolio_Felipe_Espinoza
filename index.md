@@ -10,7 +10,7 @@ If you want, you can find me in my other pages:
 - [GitHub](https://github.com/f-espinoza)
 
 ## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
-Data exploration within Kaggle Notebook using **Python**. On a dataset containing information about the date, priamry cause of death and other information concerning deaths in Chile from 2016 to 2021. 
+Data exploration within Kaggle Notebook using **Python** on a dataset containing information about the date, primary cause of death and other information concerning deaths in Chile from 2016 to 2021. 
 
 With this data I was able to answer various questions:
 
