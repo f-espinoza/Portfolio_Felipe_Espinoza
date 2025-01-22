@@ -9,7 +9,28 @@ If you want, you can find me in my other pages:
 - [Kaggle](https://www.kaggle.com/felipeea)
 - [GitHub](https://github.com/f-espinoza)
 
-## Project 1: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
+
+
+## Project 1: [Death in Chile 1990 - 2024. Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmJkYWFhMjMtNTY2Ni00OGFmLWEyZTQtZTgwODYzMmMxYTIyIiwidCI6IjkzMDhlZGJmLWVhNTItNGEzNC1iY2M4LTAxNjAwOTYxM2U0NCIsImMiOjR9&pageName=97ca9c93101a28be24d9)
+Power BI Report of related to the Python's data analysis but with a bigger dataset. This is a **Power BI Report**, so it's fully interactive.
+
+The report compiles data published by the Department of Health Statistics and Information (DEIS), part of the Chilean Ministry of Health. This report focuses on providing general information on deaths that occurred in the Republic between 1990 and 2024, with data for the years 2022 to 2024 still being preliminary. For a better understanding, the report is divided into five detailed pages:
+
+0. General information page.
+1. Biological Sex
+2. Age
+3. Cause of Death
+4. Accidental/Voluntary Death 
+5. Region 
+
+This report is not intended to be used by health authorities, but to provide general information to citizens, closely following the concept of 'Citizen Analyst'.
+The data on the Human Development Index has been compiled from the publication ‘El desarrollo humano de las comunas de Chile’, published by the United Nations Development Programme (UNDP) in June 2024.
+Within the report you can usually select any element in a table or visualization to filter the rest of the page. I encourage you to play with the elements within the pages to discover new information.
+
+
+![](/images/die_in_chile.png)
+
+## Project 2: [Death in Chile 2016 - 2021(I)](https://www.kaggle.com/felipeea/death-in-chile-2016-2021-i) 
 Data exploration within Kaggle Notebook using **Python** on a dataset containing information about the date, primary cause of death and other information concerning deaths in Chile from 2016 to 2021. 
 
 With this data I was able to answer various questions:
@@ -44,19 +65,6 @@ The dataset can be found [here](data.un.org)
 
 
 ![](/images/sql_project.JPG)
-
-
-## Project 3: [Death in Chile 2016 - 2021. Tableau Visualization](https://public.tableau.com/app/profile/felipe.espinoza3784/viz/DeathsinChile2016-2021ENG/Dashboard1)
-Data visualization of the information obtained in the *Death in Chile* Python's analysis. This is a **Tableau Dashboard**, so it is fully interactive.
-With this dashboard you can filter the visualizations for:
-
-1. Year
-2. Day of the week
-3. Month
-4. Biological sex
-
-
-![](/images/death_tableau.JPG)
 
 
 ## Project 4: [Data visualization with Python: Github Public Repositories visualization](https://www.kaggle.com/felipeea/github-public-repositories-visualization)
